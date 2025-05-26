@@ -41,6 +41,6 @@ A flexible sensor and data logger system based on ESP8266 with SD card support, 
 ---
 
 ## Contact:
-Email: tomatochiptech@gmail.com
+Email: Tomato-Chip@hotmail.com
 GitHub: github.com/tomato-chip
 
