@@ -1,4 +1,4 @@
-**Tomato Chip**
+##Tomato Chip
 Freelance Hardware Development & Embedded Systems
 
 ---
