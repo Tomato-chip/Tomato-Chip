@@ -20,7 +20,7 @@ Freelance Hardware Development & Embedded Systems
 ---
 
 ## About Tomato Chip
-Tomato Chip is a one-man freelance brand specializing in electronics, microcontrollers, and PCB design. We develop tailored hardware and firmware solutions for private clients, entrepreneurs, and companies. Behind Tomato Chip is a soon-to-graduate electrical engineer with solid embedded experience and practical skills in electronics, troubleshooting, and prototyping.
+Tomato Chip is a freelance brand specializing in electronics, microcontrollers, and PCB design. We develop tailored hardware and firmware solutions for private clients, entrepreneurs, and companies. Behind Tomato Chip is a soon-to-graduate electrical engineer with solid embedded experience and practical skills in electronics, troubleshooting, and prototyping.
 
 ---
 
